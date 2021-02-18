@@ -46,4 +46,4 @@ from GeoCal.LocDisDir import LocDisDir
     l.get_new_lng_angle(lng1, lat1, dist=500, angle=90)
 ```
 微信名片
-![avatar](http://datahub.wtf/file/weixinCarte.jpeg)
+![avatar](https://img.coder.date/images/wecheat_add_friend_code.jpg)
