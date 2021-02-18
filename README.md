@@ -42,9 +42,7 @@ from GeoCal.LocDisDir import LocDisDir
 ```
 from GeoCal.LocDisDir import LocDisDir
 
-l = LocDisDir()
 lat1,lon1 =39.752304,116.498079
-l.get_loc_with_angle(lon1, lat1, dist=500, angle=90)
-```
+print(LocDisDir.get_loc_with_angle(lon1, lat1, dist=500, angle=90))```
 微信名片
 ![avatar](https://img.coder.date/images/wecheat_add_friend_code.jpg)
