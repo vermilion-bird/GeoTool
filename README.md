@@ -41,9 +41,10 @@ from GeoCal.LocDisDir import LocDisDir
 #### 距离坐标点loc1,相距500m,与正东方向成30度角的坐标点计算
 ```
 from GeoCal.LocDisDir import LocDisDir
-    l = LocDisDir()
-    lat1,lon1 =39.752304,116.498079
-    l.get_new_lng_angle(lng1, lat1, dist=500, angle=90)
+
+l = LocDisDir()
+lat1,lon1 =39.752304,116.498079
+l.get_loc_with_angle(lon1, lat1, dist=500, angle=90)
 ```
 微信名片
 ![avatar](https://img.coder.date/images/wecheat_add_friend_code.jpg)
