@@ -1,7 +1,7 @@
 ## 地理位置计算
     安装 geo-tools-py
     pip install geo-tools-py==1.0.0
-
+    
     链接:https://pypi.org/project/geo-tools-py/1.0.0/
 
 #### 坐标点最近圆形半径搜索poi搜索
@@ -45,5 +45,3 @@ from GeoCal.LocDisDir import LocDisDir
 lat1,lon1 =39.752304,116.498079
 print(LocDisDir.get_loc_with_angle(lon1, lat1, dist=500, angle=90))
 ```
-微信名片
-![avatar](http://2.help.cm/d/share/Image/wechatQR.jpg)
