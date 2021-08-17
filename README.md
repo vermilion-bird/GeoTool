@@ -46,4 +46,4 @@ lat1,lon1 =39.752304,116.498079
 print(LocDisDir.get_loc_with_angle(lon1, lat1, dist=500, angle=90))
 ```
 微信名片
-![avatar](https://img.coder.date/images/wecheat_add_friend_code.jpg)
+![avatar](http://2.help.cm/d/share/Image/wechatQR.jpg)
